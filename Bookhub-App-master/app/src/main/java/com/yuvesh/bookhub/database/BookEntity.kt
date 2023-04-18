@@ -1,4 +1,4 @@
-package com.kartikey.bookhub.database
+package com.yuvesh.bookhub.database
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
