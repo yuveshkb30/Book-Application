@@ -1,4 +1,4 @@
-package com.kartikey.bookhub.database
+package com.yuvesh.bookhub.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
