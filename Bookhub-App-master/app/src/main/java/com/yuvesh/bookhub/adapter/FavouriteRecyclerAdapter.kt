@@ -1,4 +1,4 @@
-package com.kartikey.bookhub.adapter
+package com.yuvesh.bookhub.adapter
 
 import android.content.Context
 import android.content.Intent
