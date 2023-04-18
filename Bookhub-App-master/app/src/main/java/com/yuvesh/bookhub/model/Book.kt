@@ -1,4 +1,4 @@
-package com.kartikey.bookhub.model
+package com.yuvesh.bookhub.model
 
 data class Book(
     var bookId: String,
