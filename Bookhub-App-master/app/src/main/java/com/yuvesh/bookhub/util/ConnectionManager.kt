@@ -1,4 +1,4 @@
-package com.kartikey.bookhub.util
+package com.yuvesh.bookhub.util
 
 import android.content.Context
 import android.net.ConnectivityManager
